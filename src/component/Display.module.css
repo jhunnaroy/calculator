@@ -1,0 +1,5 @@
+.display {
+    margin: 10px;
+    width: calc(100% - 20px); /* Adjust to fit the parent container, considering margins */
+    font-size: 25px;
+  }
